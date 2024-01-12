@@ -101,11 +101,11 @@
 
 #### Um endereço de loopback é um endereço integrado ao sistema de domínio IP para permitir que um dispositivo envie e receba seus próprios pacotes de dados. E é um intervalo de endereços IP reservado distinto que começa em 127.0.0.0 e termina em 127.255.255.255, e é usado para vários tipos de análise, geralmente para fins de teste e depuração.
 
-## O que é uma sub-rede?
+## O que é uma subnet?
 
-#### Uma sub-rede ou sub-rede é uma rede dentro de uma rede. As sub-redes tornam as redes mais eficientes.
+#### Uma subnet ou subnetwork é uma rede dentro de uma rede. As subnets tornam as redes mais eficientes.
 
-#### Sub-rede é o processo de roubar bits da parte HOST do endereço IP para dividir a grande rede em outras menores, chamadas sub-redes. Após a sub-rede, terminamos com os campos NETWORK SUBNET HOST, e sempre reservamos um endereço IP para identificar a sub-rede e outro para identificar o endereço da sub-rede de broadcast, e através da sub-rede, o tráfego de rede pode percorrer uma distância menor sem passar por rotas desnecessárias para chegar ao seu destino.
+#### Subnetting  é o processo de roubar bits da parte HOST do endereço IP para dividir a grande rede em outras menores, chamadas sub-redes. Após a Subnetting , terminamos com os campos NETWORK SUBNET HOST, e sempre reservamos um endereço IP para identificar a subnet e outro para identificar o endereço da subnet de broadcast, e através da subnetting, o tráfego de rede pode percorrer uma distância menor sem passar por rotas desnecessárias para chegar ao seu destino.
 
 ## Como calcular passo a passo uma máscara de sub-rede a partir do endereço IP?
 
