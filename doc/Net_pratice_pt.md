@@ -22,11 +22,11 @@
 
 - O que é um interruptor?
 
-- O que é um roteador?
+- O que é um router?
 
-- Como funciona um roteador?
+- Como funciona um router?
 
-- Qual é a diferença entre um Modem e um Roteador?
+- Qual é a diferença entre um Modem e um router?
 
 - O que é um endereço de loopback?
 
@@ -81,21 +81,21 @@
 
 ## O que é um switch?
 
-#### Um switch é um dispositivo que conecta dispositivos dentro da mesma rede, geralmente uma rede LAN (que é uma rede local), e encaminha pacotes de dados de e para esses dispositivos. Ao contrário de um roteador, um switch apenas envia os dados para os dispositivos que ele se destina (que pode ser outro switch, um roteador ou o computador de um usuário).
+#### Um switch é um dispositivo que conecta dispositivos dentro da mesma rede, geralmente uma rede LAN (que é uma rede local), e encaminha pacotes de dados de e para esses dispositivos. Ao contrário de um router, um switch apenas envia os dados para os dispositivos que ele se destina (que pode ser outro switch, um router ou o computador de um usuário).
 
-## O que é um roteador?
+## O que é um router?
 
-#### Um roteador é um dispositivo que conecta duas ou mais redes ou sub-redes comutadas por pacotes. Ele desempenha duas funções principais: gerenciar o tráfego entre essas redes, encaminhando pacotes de dados para os endereços IP pretendidos e permitindo que vários dispositivos usem a mesma conexão com a Internet.
+#### Um router é um dispositivo que conecta duas ou mais redes ou sub-redes comutadas por pacotes. Ele desempenha duas funções principais: gerenciar o tráfego entre essas redes, encaminhando pacotes de dados para os endereços IP pretendidos e permitindo que vários dispositivos usem a mesma conexão com a Internet.
 
-## Como funciona um roteador?
+## Como funciona um router?
 
-#### O trabalho de um roteador é direcionar e guiar os pacotes que são enviados para que cheguem ao seu destino (que é o seu endereço IP) da maneira mais eficiente possível e, para enviar os pacotes de maneira eficaz, um roteador usa uma tabela de roteamento interna (que é uma lista de caminhos para vários destinos de rede), um roteador lê o cabeçalho de um pacote para determinar para onde ele está indo e, em seguida, consulta a tabela de roteamento para decidir qual caminho é o mais eficiente para que o pacote chegue ao seu destino.
+#### O trabalho de um router é direcionar e guiar os pacotes que são enviados para que cheguem ao seu destino (que é o seu endereço IP) da maneira mais eficiente possível e, para enviar os pacotes de maneira eficaz, um router usa uma tabela de roteamento interna (que é uma lista de caminhos para vários destinos de rede), um router lê o cabeçalho de um pacote para determinar para onde ele está indo e, em seguida, consulta a tabela de roteamento para decidir qual caminho é o mais eficiente para que o pacote chegue ao seu destino.
 
-## Qual é a diferença entre um modem e um roteador?
+## Qual é a diferença entre um modem e um router?
 
-#### Um roteador forma redes e gerencia o fluxo de dados dentro e entre essas redes, enquanto um modem conecta essas redes à Internet. Por outro lado, um roteador apenas conecta os dispositivos entre si para fazer uma LAN entre todos eles, mas sem acesso à internet, por outro lado, um modem pode se conectar a apenas um dispositivo, mas fornece acesso à internet.
+#### Um router forma redes e gerencia o fluxo de dados dentro e entre essas redes, enquanto um modem conecta essas redes à Internet. Por outro lado, um router apenas conecta os dispositivos entre si para fazer uma LAN entre todos eles, mas sem acesso à internet, por outro lado, um modem pode se conectar a apenas um dispositivo, mas fornece acesso à internet.
 
-#### E para fazer uma LAN que se conecte à internet, você deve combinar um modem e um roteador, para que o roteador conecte todos os dispositivos enquanto um modem lhes dê acesso à internet.
+#### E para fazer uma LAN que se conecte à internet, você deve combinar um modem e um router, para que o router conecte todos os dispositivos enquanto um modem lhes dê acesso à internet.
 
 ## O que é um endereço de loopback?
 
