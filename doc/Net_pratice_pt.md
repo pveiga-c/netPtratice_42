@@ -72,14 +72,14 @@
 
 #### O trabalho do TCP/IP é dividir as diferentes tarefas de comunicação em camadas, cada camada tem uma função diferente. Os dados passam por quatro camadas individuais antes de serem recebidos na outra extremidade. O TCP/IP então passa por essas camadas ao contrário para remontar os dados e representá-los ao destinatário.
 
-## As quatro camadas do modelo TCP/IP são:
+### As quatro camadas do modelo TCP/IP são:
 
-#### * ** Camada Datalink: ** também chamada de camada física, é o que trata das partes físicas de envio e recebimento de dados usando Ethernet, ou WiFi, etc…
-#### * ** Camada de Internet: ** também chamada de camada de rede, e controla a movimentação dos pacotes pela Internet.
-#### * ** Camada de Transporte: ** é o que fornece uma conexão de dados confiável entre dois dispositivos, divide os dados em pacotes, conhece os pacotes que são recebidos do outro dispositivo e garante que o outro dispositivo conheça os pacotes que recebe.
-#### * ** Camada de Aplicação: ** é o grupo de aplicações que requer comunicação em rede, que é com o qual o usuário normalmente interage, como e-mails e mensagens, pois a camada inferior trata dos detalhes da comunicação e não há necessidade de preocupação das aplicações. eles mesmos com isso.
+#### * Camada Datalink: também chamada de camada física, é o que trata das partes físicas de envio e recebimento de dados usando Ethernet, ou WiFi, etc…
+#### * Camada de Internet: também chamada de camada de rede, e controla a movimentação dos pacotes pela Internet.
+#### * Camada de Transporte: é o que fornece uma conexão de dados confiável entre dois dispositivos, divide os dados em pacotes, conhece os pacotes que são recebidos do outro dispositivo e garante que o outro dispositivo conheça os pacotes que recebe.
+#### * Camada de Aplicação: é o grupo de aplicações que requer comunicação em rede, que é com o qual o usuário normalmente interage, como e-mails e mensagens, pois a camada inferior trata dos detalhes da comunicação e não há necessidade de preocupação das aplicações. eles mesmos com isso.
 
-## O que é um interruptor?
+## O que é um switch?
 
 #### Um switch é um dispositivo que conecta dispositivos dentro da mesma rede, geralmente uma rede LAN (que é uma rede local), e encaminha pacotes de dados de e para esses dispositivos. Ao contrário de um roteador, um switch apenas envia os dados para os dispositivos que ele se destina (que pode ser outro switch, um roteador ou o computador de um usuário).
 
