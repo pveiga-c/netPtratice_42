@@ -8,3 +8,8 @@
 ##### [PowerCert Animated Videos](https://www.youtube.com/watch?v=pCcJFdYNamc)
 ##### [PowerCert Animated Videos](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 
+## Reading
+
+##### [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)
+##### [Linuxhint](https://linuxhint.com/ipcalc-command-linux/)
+##### [Calculator](https://www.calculator.net/ip-subnet-calculator.html)
