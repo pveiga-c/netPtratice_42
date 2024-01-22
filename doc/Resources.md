@@ -12,4 +12,4 @@
 
 ##### [Medium](https://medium.com/@imyzf/netpractice-2d2b39b6cf0a)
 ##### [Linuxhint](https://linuxhint.com/ipcalc-command-linux/)
-##### [Calculator](https://www.calculator.net/ip-subnet-calculator.html)
+##### [IP Calculator](https://www.calculator.net/ip-subnet-calculator.html)
