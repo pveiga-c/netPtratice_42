@@ -1,4 +1,4 @@
-# netPtratice_42
+# NetPratice_42
 
 ##### This project is designed to help you gain practical experience in configuring small-scale networks and understanding TCP/IP addressing. It consists of 10 levels or exercises that need to be completed. 
 
