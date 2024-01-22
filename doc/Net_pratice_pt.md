@@ -107,6 +107,3 @@
 
 #### Subnetting  é o processo de roubar bits da parte HOST do endereço IP para dividir a grande rede em outras menores, chamadas sub-redes. Após a Subnetting , terminamos com os campos NETWORK SUBNET HOST, e sempre reservamos um endereço IP para identificar a subnet e outro para identificar o endereço da subnet de broadcast, e através da subnetting, o tráfego de rede pode percorrer uma distância menor sem passar por rotas desnecessárias para chegar ao seu destino.
 
-## Como calcular passo a passo uma máscara de sub-rede a partir do endereço IP?
-
-#### Trabalharemos com o endereço IP 10.20.4.13/29
