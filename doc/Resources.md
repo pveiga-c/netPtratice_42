@@ -6,7 +6,7 @@
 ##### [NetWotking - part 3](https://www.youtube.com/watch?v=TMjo-Iphjyo)
 ##### [Practical Networking](https://www.youtube.com/watch?v=BWZ-MHIhqjM)
 ##### [PowerCert Animated Videos](https://www.youtube.com/watch?v=pCcJFdYNamc)
-##### [PowerCert Animated Videos](https://www.youtube.com/watch?v=s_Ntt6eTn94)
+##### [PowerCert Animated Videos - Subnet Mask](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 
 ## Reading
 
